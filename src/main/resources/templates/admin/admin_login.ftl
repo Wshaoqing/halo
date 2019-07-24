@@ -16,7 +16,7 @@
 </head>
 <body>
 <div class="container loginForm">
-    <#-- 虽然Halo使用了宽松的GPL协议，但开发不易，希望您可以保留一下版权声明。~ -->
+    <#-- 虽然Halo使用了宽松的GPL协议，但开发不易，希望您可以保留一下版权声明。笔芯~ -->
     <div class="loginLogo animated fadeInUp">
         Halo
     </div>
